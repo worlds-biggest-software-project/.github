@@ -27,10 +27,10 @@
 
 ![Architecture](architecture.png)
 
+1. Layered application architecture, so applications can build upon each other. Each layer can
+add to, augment, or override the layers it inherits from. Database schema, styles, pages, APIs, logic... anything can be overriden, without breaking the underlying layers.
 
-1. Layered application architecture, so applications can build upon each other.
-
-2. Mega-branching, to encourage a hundred flavors of each application.
+2. Mega-branching, to encourage a hundred variations and flavors of each application. Everyone can add their extra ideas and style.
 
 3. Seamless from development to deployment.
 
@@ -44,3 +44,26 @@
 
 8. Development and Contribution Gates to ensure compliance with specification, testing, and other requirements.
 
+9. Complete attribution (including financial) of contributor's efforts.
+
+## Is this feasable?
+
+Since February 5th 2026, AI has been a viable way to write entire applications.
+
+While it might not be 100% up to the task of this project today, it is getting better every day.
+
+In any case, we need people who understand industries to write specs, and we need people
+who understand marketing to find customers for these solutions. We also need people who
+can take a raw underlying core products and finish them off into viable products.
+
+## Join Us
+
+Feel free to contribute, or take from, this community.
+
+- Add your branding onto an existing application.
+
+- Add your "magic feature".
+
+- Help build a core layer.
+
+Use your AI tokens to contribute.
