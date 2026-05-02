@@ -48,13 +48,18 @@ add to, augment, or override the layers it inherits from. Database schema, style
 
 10. Complete attribution (including financial) of contributor's efforts.
 
-## Is this feasable?
+## Can these 500+ projects be written entirely by AI?
 
-Since February 5th 2026, AI has been a viable way to write entire applications.
+Of course not!
 
-While it might not be 100% up to the task of this project today, it is getting better every day.
+Well, not in the short term.
 
-In the meantime we need people who can help drive the process.
+But, since February 5th 2026 AI _has_ been a viable way to write entire applications - even
+larfge Enterprise scale application - very quickly. And it is getting better by the day.
+
+For now, we need people who can help it along, writing specs, guiding the AI,
+and driving the AI-native developing process. If you know the business, between us
+we can build the product faster than ever before.
 
 We need people who understand industries to write specs, and we need people
 who understand marketing to find customers for these solutions. We also need people who
