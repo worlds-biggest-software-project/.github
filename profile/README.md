@@ -40,11 +40,13 @@ add to, augment, or override the layers it inherits from. Database schema, style
 
 6. Catalog and App Store, payments and commission.
 
-7. AI-Native EVERYTHING.
+7. AI-Native EVERYTHING. So your AI understands how to modify it.
 
-8. Development and Contribution Gates to ensure compliance with specification, testing, and other requirements.
+8. Spec-driven EVERYTHING. So your AI understands how to test it.
 
-9. Complete attribution (including financial) of contributor's efforts.
+9. Development and Contribution Gates to ensure compliance with specification, testing, and other requirements.
+
+10. Complete attribution (including financial) of contributor's efforts.
 
 ## Is this feasable?
 
@@ -52,9 +54,24 @@ Since February 5th 2026, AI has been a viable way to write entire applications.
 
 While it might not be 100% up to the task of this project today, it is getting better every day.
 
-In any case, we need people who understand industries to write specs, and we need people
+In the meantime we need people who can help drive the process.
+
+We need people who understand industries to write specs, and we need people
 who understand marketing to find customers for these solutions. We also need people who
-can take a raw underlying core products and finish them off into viable products.
+can take raw underlying core products and finish them off into viable products.
+
+## Isn't this just OSS?
+
+Not remotely.
+
+With `worlds-biggest-software-project` you are standing on the shoulders of gaints. You are building on core application and infrastructure functionality.
+
+But rather than fork-and-modify, this is a layered architecture. You don't create your own orphaned version of the software.
+Instead, you inherit, add-to, and
+override the underlying layers, right down to the core infrastructure. This means that
+you get the benefits of continued development of the entire underlying platform.
+
+Using `@wbsp-*` tags and naming convention you control exactly how this works.
 
 ## Join Us
 
